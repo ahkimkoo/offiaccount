@@ -1,4 +1,4 @@
-module github.com/fastwego/offiaccount
+module github.com/ahkimkoo/offiaccount
 
 go 1.14
 
