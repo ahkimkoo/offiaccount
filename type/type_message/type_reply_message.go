@@ -184,8 +184,8 @@ type ReplyMessageNews struct {
 			Title       CDATA
 			Description CDATA
 			PicUrl      CDATA
-			URL         CDATA
-		}
+			URL         CDATA `xml:"Url"`
+		} `xml:"item"`
 	}
 }
 
